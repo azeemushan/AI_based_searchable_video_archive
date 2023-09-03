@@ -1,4 +1,4 @@
-# AI based Searchable Video Archive
+# AI-based Searchable Video Archive
 This AI-based searchable video archive is a system that uses artificial intelligence (AI) and other technologies to make videos searchable and easily accessible. It involves analyzing the content of videos, extracting metadata, and creating a searchable index, allowing users to find specific videos or segments based on keywords, topics, or other criteria. Here's an explanation of the program you provided:
 
 **Program Description:**
