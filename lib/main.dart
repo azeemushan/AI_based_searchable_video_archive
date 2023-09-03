@@ -26,8 +26,8 @@ class VideoGridPage extends StatefulWidget {
 
 class _VideoGridPageState extends State<VideoGridPage> {
   final Algolia algolia = Algolia.init(
-    applicationId: 'PW3GM2OXUJ',
-    apiKey: 'c0b642c80d46ff5a2e1321336f147ea7',
+    applicationId: 'YOUR_APP_ID',
+    apiKey: 'YOUR_API_KEY',
   );
 
   List<AlgoliaObjectSnapshot> _videoResults = [];
